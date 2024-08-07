@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212659413444",
+    "project_id": "interiortouch-d8327",
+    "storage_bucket": "interiortouch-d8327.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212659413444:android:3fe4a4e1d54243934cc491",
+        "android_client_info": {
+          "package_name": "com.interiortouch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_9E6bi1nmmrwltOQgxJqa8y2rQ2rczRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
